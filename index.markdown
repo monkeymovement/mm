@@ -10,4 +10,4 @@ date: 2018-05-19 21:52:00 Z
   }
 </style>
 
-coming soon! Xx
+coming soon
